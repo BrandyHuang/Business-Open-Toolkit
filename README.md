@@ -3,5 +3,5 @@
 ### Not matter what you want, tell us your idea firstly :)!
 ### Get google map API to draw a heatmap of traffic in the city you want to operate business in
 ### Get Yelp API to analyze top competitors in the city
-### Get OpenAI API to generate strategies for you! 
+### Get GoogleAI API to generate strategies for you! 
   
