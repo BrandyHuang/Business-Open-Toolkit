@@ -60,4 +60,4 @@ response = client.models.generate_content(
 print(response.text)
 ```
 ## Some Key Results
-![Number of Shops open in Different Times](Google.png)
+![Number of Shops open in Different Times](Photo/Google.png)
