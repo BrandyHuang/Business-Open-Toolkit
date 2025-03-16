@@ -6,6 +6,7 @@
 * Get GoogleAI API to generate strategies for you! 
   
 ## API connection process
+* Google Map *
 ```
 import requests
 
@@ -22,6 +23,7 @@ for place_type in types:
     })
     results.extend(response.json().get("results", []))
 ```
+* Yelp *
 ```
 API_KEY = "###put your key"
 headers = {"Authorization": f"Bearer {API_KEY}"}
@@ -41,3 +43,21 @@ def get_yelp_data(offset):
     )
     return response.json()
 ```
+* Google AI *
+```
+from google import genai
+client = genai.Client(api_key="##get your key")
+
+response = client.models.generate_content(
+    model="gemini-1.5-flash", contents=
+    """Provide business strategy for opening an icecream shop in San Francisco. You should consider following information:
+    1. According to heatmap, the place with traffic-heavy place are Inner Richmand, Mission District, Union Square, and Financial District.
+    2. According to heatmap, the place with most popular icecream are Inner Richmand, Middle Richmand, North Beach.
+    3. The average operating hours is 9.41, and the most frequent opening time is 11:00, the most frequent closing time is 21:00.
+    4. The regional data shows that Top50 rating icecream are in: Mission: 19, Downtown: 15, North Beach: 9, Richmond: 8, Nob Hill: 4, Marina: 4, Sunset: 2, Financial District: 1
+    """
+)
+print(response.text)
+```
+## Some Key Results
+![Number of Shops open in Different Times](Google.png)
