@@ -6,7 +6,7 @@
 * Get GoogleAI API to generate strategies for you! 
   
 ## API connection process
-* Google Map *
+*Google Map*
 ```
 import requests
 
@@ -23,7 +23,7 @@ for place_type in types:
     })
     results.extend(response.json().get("results", []))
 ```
-* Yelp *
+*Yelp*
 ```
 API_KEY = "###put your key"
 headers = {"Authorization": f"Bearer {API_KEY}"}
@@ -43,7 +43,7 @@ def get_yelp_data(offset):
     )
     return response.json()
 ```
-* Google AI *
+*Google AI*
 ```
 from google import genai
 client = genai.Client(api_key="##get your key")
