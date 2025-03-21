@@ -61,7 +61,9 @@ print(response.text)
 ```
 ## Some Key Results
 ![Foot Print Heat Map of SF](Photo/Google.png)
-![Number of Shops in Different Regions of SF](Photo/icecream_count_region.png)
+
+| ![Number of Ice-cream Shops in Different Regions of SF](Photo/icecream_count_region.png)| ![Heatmap of These Ice-cream Shops Shops](Photo/icecreamshop_count.png) | 
+|----------------------|----------------------|
 
 | # | Region              | Shop Count |
 |---|---------------------|-----------|
