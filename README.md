@@ -74,8 +74,8 @@ print(response.text)
 | 7 | Marina             | 2         |
 | 8 | Financial District | 1         |
 
-* ![Opening time of This Shops](Photo/Opening_time.png)
-* ![Closing time of This Shops](Photo/Close_time.png)
-* ![Operation time of This Shops in Hours](Photo/Operation_hours.png)
+* ![Opening time of This Shops](Photo/opening_time.png)
+* ![Closing time of This Shops](Photo/close_time.png)
+* ![Operation time of This Shops in Hours](Photo/operation_hours.png)
 
 ## Summary
