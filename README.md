@@ -61,7 +61,7 @@ print(response.text)
 ```
 ## Some Key Results
 
-| ![Foot Print Heat Map of SF](Photo/footprint.png) | ![Heatmap of These Ice-cream Shops Shops](Photo/icecreamshop_count.png) | 
+| ![Foot Print Heatmap of SF](Photo/footprint.png) | ![Heatmap of These Ice-cream Shops Shops](Photo/icecreamshop_count.png) | 
 |----------------------|----------------------|
 
 | # | Region              | Shop Count |
