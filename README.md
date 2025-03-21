@@ -88,6 +88,7 @@ Median Saturday Close Hour for Ice Cream Shops in SF is about 21:00​
 Median of Saturday Operation Hours for Ice Cream Shops in SF is about 10 hours​
 
 ## Summary
+[![Demo Video of Gemini](video-demo.mp4)
 
 Recommendations: Ice Cream Shop in SF
 
