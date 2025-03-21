@@ -64,20 +64,28 @@ print(response.text)
 | ![Foot Print Heatmap of SF](Photo/footprint.png) | ![Heatmap of These Ice-cream Shops Shops](Photo/icecreamshop_count.png) | 
 |----------------------|----------------------|
 
-| # | Region              | Shop Count |
-|---|---------------------|-----------|
-| 1 | Mission            | 19        |
-| 2 | SOMA/Downtown      | 15        |
-| 3 | North Beach        | 9         |
-| 4 | Richmond           | 8         |
-| 5 | Sunset             | 4         |
-| 6 | Nob Hill           | 4         |
-| 7 | Marina             | 2         |
-| 8 | Financial District | 1         |
+According to the left heatmap, the places with traffic-heavy areas are Inner Richmond, Mission District, Union Square, and Financial District.
+According to the right heatmap, the places with the most popular ice cream shops are Inner Richmond, Middle Richmond, and North Beach.
+Thus, it is an opportunity for us to see if financial district is a good place to go, as footprint is high but less popular ice craem shops.
+
+| # | Region              | Top Shops Count |
+|---|---------------------|-----------------|
+| 1 | Mission            | 19               |
+| 2 | SOMA/Downtown      | 15               |
+| 3 | North Beach        | 9                |
+| 4 | Richmond           | 8                |
+| 5 | Sunset             | 4                |
+| 6 | Nob Hill           | 4                |
+| 7 | Marina             | 2                |
+| 8 | Financial District | 1                |
 
 
 | ![Opening time of This Shops](Photo/opening_time.png) | ![Closing time of This Shops](Photo/close_time.png) | ![Operation time of This Shops in Hours](Photo/operation_hours.png) |
 |----------------------|----------------------|----------------------|
+
+The median Saturday Open Hour for Ice Cream Shops in SF is about 11:00​
+Median Saturday Close Hour for Ice Cream Shops in SF is about 21:00​
+Median of Saturday Operation Hours for Ice Cream Shops in SF is about 10 hours​
 
 ## Summary
 
