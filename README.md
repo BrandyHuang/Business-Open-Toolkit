@@ -61,7 +61,7 @@ print(response.text)
 ```
 ## Some Key Results
 * ![Number of Shops open in Different Times](Photo/Google.png)
-* ![Number of Shops in Different Regions of SF]()
+* ![Number of Shops in Different Regions of SF](Photo/icecream_count_region.png)
 
 | # | Region              | Shop Count |
 |---|---------------------|-----------|
@@ -74,8 +74,8 @@ print(response.text)
 | 7 | Marina             | 2         |
 | 8 | Financial District | 1         |
 
-* ![Opening time of This Shops]()
-* ![Closing time of This Shops]()
-* ![Operation time of This Shops in Hours]()
+* ![Opening time of This Shops](Photo/Opening_time.png)
+* ![Closing time of This Shops](Photo/Close_time.png)
+* ![Operation time of This Shops in Hours](Photo/Operation_hours.png)
 
 ## Summary
