@@ -60,8 +60,8 @@ response = client.models.generate_content(
 print(response.text)
 ```
 ## Some Key Results
-* ![Number of Shops open in Different Times](Photo/Google.png)
-* ![Number of Shops in Different Regions of SF](Photo/icecream_count_region.png)
+![Foot Print Heat Map of SF](Photo/Google.png)
+![Number of Shops in Different Regions of SF](Photo/icecream_count_region.png)
 
 | # | Region              | Shop Count |
 |---|---------------------|-----------|
@@ -79,3 +79,17 @@ print(response.text)
 |----------------------|----------------------|----------------------|
 
 ## Summary
+
+# Recommendations: Ice Cream Shop in SF
+
+| **Category**           | **Details** |
+|------------------------|------------|
+| **Optimal Location**   | **Financial District** |
+|                        | - Close to offices |
+|                        | - High foot traffic |
+|                        | - Little competition |
+| **Target Customer**    | Tourists, office workers |
+| **Optimal Operating Hours** | **11AM – 9PM** |
+|                        | - The average operating hours of Top 100 competitors in SF is 10 hours |
+|                        | - Most of the restaurants nearby close around this time |
+|                        | - May change depending on season |
