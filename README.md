@@ -80,7 +80,7 @@ print(response.text)
 
 ## Summary
 
-# Recommendations: Ice Cream Shop in SF
+Recommendations: Ice Cream Shop in SF
 
 | **Category**           | **Details** |
 |------------------------|------------|
