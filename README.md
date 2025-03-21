@@ -60,4 +60,22 @@ response = client.models.generate_content(
 print(response.text)
 ```
 ## Some Key Results
-![Number of Shops open in Different Times](Photo/Google.png)
+* ![Number of Shops open in Different Times](Photo/Google.png)
+* ![Number of Shops in Different Regions of SF]()
+
+| # | Region              | Shop Count |
+|---|---------------------|-----------|
+| 1 | Mission            | 19        |
+| 2 | SOMA/Downtown      | 15        |
+| 3 | North Beach        | 9         |
+| 4 | Richmond           | 8         |
+| 5 | Sunset             | 4         |
+| 6 | Nob Hill           | 4         |
+| 7 | Marina             | 2         |
+| 8 | Financial District | 1         |
+
+* ![Opening time of This Shops]()
+* ![Closing time of This Shops]()
+* ![Operation time of This Shops in Hours]()
+
+## Summary
