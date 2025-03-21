@@ -89,16 +89,20 @@ Median of Saturday Operation Hours for Ice Cream Shops in SF is about 10 hours�
 
 ## Summary
 
-Recommendations: Ice Cream Shop in SF
+### Recommendations: Ice Cream Shop in SF
 
-| **Category**           | **Details** |
-|------------------------|------------|
-| **Optimal Location**   | **Financial District** |
-|                        | - Close to offices |
-|                        | - High foot traffic |
-|                        | - Little competition |
-| **Target Customer**    | Tourists, office workers |
-| **Optimal Operating Hours** | **11AM – 9PM** |
-|                        | - The average operating hours of Top 100 competitors in SF is 10 hours |
-|                        | - Most of the restaurants nearby close around this time |
-|                        | - May change depending on season |
+Optimal Location:
+The Financial District is recommended as the best location due to the following reasons:
+
+It is close to offices.
+It experiences high foot traffic.
+There is little competition in the area.
+Target Customers:
+The primary target customers include tourists and office workers who frequent the Financial District.
+
+Optimal Operating Hours:
+The ideal operating hours for the ice cream shop are 11 AM – 9 PM, based on:
+
+The average operating hours of the top 100 competitors in SF is 10 hours.
+Most nearby restaurants close around this time, ensuring potential customer flow.
+Operating hours may vary depending on the seasonal demand.
