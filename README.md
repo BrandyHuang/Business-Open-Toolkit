@@ -78,4 +78,7 @@ print(response.text)
 * ![Closing time of This Shops](Photo/close_time.png)
 * ![Operation time of This Shops in Hours](Photo/operation_hours.png)
 
+| ![Alt1](Photo/opening_time.png) | ![Alt2](Photo/close_time.png) | ![Alt3](Photo/operation_hours.png) |
+|----------------------|----------------------|----------------------|
+
 ## Summary
